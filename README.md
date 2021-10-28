@@ -1,5 +1,10 @@
-### Hi there 👋
-
+![Octogato, nuestro nuevo dios](/XavierSinPiernas/images/GIT.png)
+# MUY BUENAS TARDES A TODOS.😄
+  Mi nombre es **Héctor Xavier** y esta es mi página de GitHub, hecha con MarkDown. Soy Buenísimo.
+ Estoy junto con mis compañeros (obviamente) estudiando 1ºDAM en el IES Luis Vives.
+ Nuestro tutor @joseluisgs, nos da Programación y Entornos de Desarrollo. 
+ ### Un grande, se ha pasado ya la vida 1. 👺
+  
 <!--
 **XavierSinPiernas/XavierSinPiernas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
