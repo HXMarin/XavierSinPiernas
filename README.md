@@ -1,4 +1,4 @@
-![Octogato, nuestro nuevo dios](/XavierSinPiernas/images/GIT.png)
+![Octogato, nuestro nuevo dios](GIT.png)
 # MUY BUENAS TARDES A TODOS.😄
   Mi nombre es **Héctor Xavier** y esta es mi página de GitHub, hecha con MarkDown. Soy Buenísimo.
  Estoy junto con mis compañeros (obviamente) estudiando 1ºDAM en el IES Luis Vives.
