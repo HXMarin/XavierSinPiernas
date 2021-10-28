@@ -5,7 +5,7 @@
   Soy Buenísimo.
 
 
- Estoy junto con mis compañeros (obviamente) estudiando 1ºDAM en el IES Luis Vives.
+ Estoy junto con mis compañeros (obviamente) estudiando **1ºDAM** en el **IES Luis Vives.**
  Nuestro tutor @joseluisgs, nos da Programación y Entornos de Desarrollo. 
  ### Un grande, se ha pasado ya la vida 1. 👺
   **Un Dato importante. Mi nombre de GitHub, no es meme.**
