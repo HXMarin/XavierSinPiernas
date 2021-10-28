@@ -20,7 +20,8 @@ Estamos trabajando en Java
 public class main{
 public static void isPrime(){
 }
-}```
+}
+```
   
 <!--
 **XavierSinPiernas/XavierSinPiernas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
