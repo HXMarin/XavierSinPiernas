@@ -14,7 +14,13 @@ Una clara anotación. Esto es una prueba por lo que ya haré mejor este MD.
 ![japon](https://images.unsplash.com/photo-1528360983277-13d401cdc186?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&w=1000&q=80)
 
 La Fotografía mola.👹
-
+En **Programación** estamos viendo los **vectores & las Arrays**. Lo cual me parece muy loco ahora mismo.
+Estamos trabajando en Java
+```java
+public class main{
+public static void isPrime(){
+}
+}```
   
 <!--
 **XavierSinPiernas/XavierSinPiernas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
