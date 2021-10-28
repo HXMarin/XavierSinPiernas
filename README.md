@@ -8,8 +8,8 @@
  Estoy junto con mis compañeros (obviamente) estudiando 1ºDAM en el IES Luis Vives.
  Nuestro tutor @joseluisgs, nos da Programación y Entornos de Desarrollo. 
  ### Un grande, se ha pasado ya la vida 1. 👺
-  # Un Dato importante. Mi nombre de GitHub, no es meme.
-  # Digamos que hace mucho tiempo que he estado sin poder usar las piernas, y gracias mucho esfuerzo puedo volver a usarlas.
+  **Un Dato importante. Mi nombre de GitHub, no es meme.**
+  **Digamos que hace mucho tiempo que he estado sin poder usar las piernas, y gracias mucho esfuerzo puedo volver a usarlas.**
 Una clara anotación. Esto es una prueba por lo que ya haré mejor este MD.
 ![japon](https://images.unsplash.com/photo-1528360983277-13d401cdc186?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8&w=1000&q=80)
 
