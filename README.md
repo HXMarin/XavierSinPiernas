@@ -53,7 +53,11 @@ A día de hoy, quiero dedicarme al desarrollo de aplicaciones Móviles.
 
 Aunque también me gustaría mucho aprender Ciberseguridad.
 
-Estoy prácticamente escuchando música todo el día. Ahora lo que suelo escuchar es Phonk ![Cancioncita Guapa](https://www.youtube.com/watch?v=D52kastH1R8)
+Estoy prácticamente escuchando música todo el día. Ahora lo que suelo escuchar es Phonk 🎺. ![Cancioncita Guapa📻](https://www.youtube.com/watch?v=D52kastH1R8)
+
+No me fascinan mucho las Películas... Hay alguna serie que si, hay series que son muy míticas para mí. Y ánimes pues tres o cuatro me gustan. Lo que me mola es leer manga ##ESO SI! MUY BUENAS TARDES###
+
+
   
 <!--
 **XavierSinPiernas/XavierSinPiernas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
