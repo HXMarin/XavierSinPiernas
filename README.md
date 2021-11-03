@@ -58,6 +58,12 @@ Estoy prácticamente escuchando música todo el día. Ahora lo que suelo escucha
 No me fascinan mucho las Películas... Hay alguna serie que si, hay series que son muy míticas para mí. Y ánimes pues tres o cuatro me gustan. Lo que me mola es leer manga 
 ## ESO SI! MUY BUENAS TARDES 
 
+Lo que realmente me gusta, son los videojuegos. Pero los que suponen un desafio de verdad. Ya casi me he desintoxicado del lol (lo cual está bien).
+
+Me gustan todos los juegos de From Software (desde que Miyazaki se hizo cargo de la empresa porque los juegos de gundams pues no.).
+En especial el Dark Souls III, soy un pro Gamer Coreano de ese juego. Y espero con ansias el Elden Ring y el Bloodborne en pc a 60 FPS DIOS.
+(https://upload.wikimedia.org/wikipedia/commons/c/c5/Dark_Souls_III.jpg)
+
 
   
 <!--
