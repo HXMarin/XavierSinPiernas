@@ -6,7 +6,7 @@
  Estoy junto con mis compañeros (obviamente) estudiando **1ºDAM** en el **IES Luis Vives.**
  Nuestro tutor @joseluisgs, nos da Programación y Entornos de Desarrollo. Una persona demasiado lista al cual se le nota que le gusta su vocación.
  ***Lo cual da mucho miedo*** No blame please.
- 
+ Actualmente estamos trabajando en Java:
 ```java
 public class main{
 public static void main(String[] args) {
@@ -46,8 +46,14 @@ public static void main(String[] args) {
 
 
 En **Programación** estamos viendo los **Las Arrays Unidimensionales y multidimensionales**. Lo cual me parece muy loco ahora mismo.
-Estamos trabajando en Java
+Pero cada vez me gusta más.
 
+
+A día de hoy, quiero dedicarme al desarrollo de aplicaciones Móviles.
+
+Aunque también me gustaría mucho aprender Ciberseguridad.
+
+Estoy prácticamente escuchando música todo el día. Ahora lo que suelo escuchar es Phonk [Cancioncita Guapa]: https://www.youtube.com/watch?v=D52kastH1R8
   
 <!--
 **XavierSinPiernas/XavierSinPiernas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
