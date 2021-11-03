@@ -67,7 +67,7 @@ En especial el Dark Souls III, soy un pro Gamer Coreano de ese juego. Y espero c
 
 ## Plataformas que más utilizo en Programación y Entornos de Desarrollo:
 ![intellij](https://static.javatpoint.com/intellij-idea/images/intellij-idea-tutorial.png)
-![visual](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5rAyPfhSHE12jBd-v-SzUp1v2jUEiTovJT98e__YXffLIJKvJLsl0OhrD33Vyc_rE7BU&usqp=CAU)
+![visual](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png)
 ![GK](https://dashboard.snapcraft.io/site_media/appmedia/2018/01/1.png)
 ![git2](https://git-scm.com/images/logos/downloads/Git-Icon-Black.png)
   
