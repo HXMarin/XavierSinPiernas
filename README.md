@@ -1,4 +1,4 @@
- ![git](https://statics.rubenortiz.es/wp-content/uploads/2020/10/04105143/GitHub_Logo.png)
+ ![git](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
 # MUY BUENAS TARDES A TODOS.😄
   Mi nombre es **Héctor Xavier** y esta es mi página de GitHub, hecha con MarkDown. 
   
@@ -49,19 +49,19 @@ En **Programación** estamos viendo los **Las Arrays Unidimensionales y multidim
 Pero cada vez me gusta más.
 
 
-A día de hoy, quiero dedicarme al desarrollo de aplicaciones Móviles.
+A día de hoy, quiero dedicarme al desarrollo de aplicaciones Móviles.📱
 
-Aunque también me gustaría mucho aprender Ciberseguridad.
+Aunque también me gustaría mucho aprender Ciberseguridad.🔒
 
 Estoy prácticamente escuchando música todo el día. Ahora lo que suelo escuchar es Phonk 🎺. ![Cancioncita Guapa📻](https://www.youtube.com/watch?v=D52kastH1R8)
 
 No me fascinan mucho las Películas... Hay alguna serie que si, hay series que son muy míticas para mí. Y ánimes pues tres o cuatro me gustan. Lo que me mola es leer manga 
 ## ESO SI! MUY BUENAS TARDES 
 
-Lo que realmente me gusta, son los videojuegos. Pero los que suponen un desafio de verdad. Ya casi me he desintoxicado del lol (lo cual está bien).
+Lo que realmente me gusta, son los videojuegos. Pero los que suponen un desafio de verdad. Ya casi me he desintoxicado del lol (lo cual está bien).🎮🔪
 
 Me gustan todos los juegos de From Software (desde que Miyazaki se hizo cargo de la empresa porque los juegos de gundams pues no.).
-En especial el Dark Souls III, soy un pro Gamer Coreano de ese juego. Y espero con ansias el Elden Ring y el Bloodborne en pc a 60 FPS DIOS.
+En especial el Dark Souls III, soy un pro Gamer Coreano de ese juego. Y espero con ansias el Elden Ring y el Bloodborne en pc a 60 FPS DIOS.⚔️
 ![DSIII](https://upload.wikimedia.org/wikipedia/commons/c/c5/Dark_Souls_III.jpg)
 
 
