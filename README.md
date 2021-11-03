@@ -7,7 +7,7 @@
  Nuestro tutor @joseluisgs, nos da Programación y Entornos de Desarrollo. Una persona demasiado lista al cual se le nota que le gusta su vocación.
  ***Lo cual da mucho miedo*** No blame please.
  
-![matriz] (/XavierSinPiernas/imagenes/a.PNG)
+![matriz] (/XavierSinPiernas/imagenes/a.png)
 
 
 En **Programación** estamos viendo los **Las Arrays Unidimensionales y multidimensionales**. Lo cual me parece muy loco ahora mismo.
