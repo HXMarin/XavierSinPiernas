@@ -62,7 +62,7 @@ Lo que realmente me gusta, son los videojuegos. Pero los que suponen un desafio 
 
 Me gustan todos los juegos de From Software (desde que Miyazaki se hizo cargo de la empresa porque los juegos de gundams pues no.).
 En especial el Dark Souls III, soy un pro Gamer Coreano de ese juego. Y espero con ansias el Elden Ring y el Bloodborne en pc a 60 FPS DIOS.
-(https://upload.wikimedia.org/wikipedia/commons/c/c5/Dark_Souls_III.jpg)
+![DSIII](https://upload.wikimedia.org/wikipedia/commons/c/c5/Dark_Souls_III.jpg)
 
 
   
