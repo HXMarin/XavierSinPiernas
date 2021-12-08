@@ -77,3 +77,4 @@ En especial el Dark Souls III, soy un pro Gamer Coreano de ese juego. Y espero c
  3. Elemento 3
 
  > Esto es una prueba para ver si el MarkDown me sale bien.
+![img1](https://i0.wp.com/hipertextual.com/wp-content/uploads/2017/04/DS3.jpg?fit=2048%2C1204&ssl=1)
