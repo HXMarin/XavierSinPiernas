@@ -73,7 +73,7 @@ En especial el Dark Souls III, soy un pro Gamer Coreano de ese juego. Y espero c
   
 ### Lista Ordenada:
  1. Elemento 1
-     2. Elemento 2
-         3. Elemento 3
+ 2. Elemento 2
+ 3. Elemento 3
 
  > Esto es una prueba para ver si el MarkDown me sale bien.
